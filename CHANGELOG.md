@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.1](https://github.com/extra2000/vitis-helloworld-baremetal/compare/v1.0.0...v1.0.1) (2022-04-22)
+
+
+### Documentations
+
+* **README:** simplify Vitis instructions ([76cbf8d](https://github.com/extra2000/vitis-helloworld-baremetal/commit/76cbf8d3e5b30cc9e58bf19d4eef4b810600bd7f))
+
+
+### Fixes
+
+* **vitis:** fix invalid path ([0dc9450](https://github.com/extra2000/vitis-helloworld-baremetal/commit/0dc945067e96d7171fc2a2cad4ebf485255c60bc))
+
 ## 1.0.0 (2022-04-19)
 
 
