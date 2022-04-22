@@ -40,13 +40,20 @@ Generate XSA file required by Vitis.
 
 ## Creating Vitis Project
 
-Generate platform:
+`cd` into ./workspace:
 ```
-cd vitis/platform/
-flatpak run --command=xsct com.github.corna.Vivado ./arty-z7-20.tcl
+cd workspace
 ```
 
-Launch Vitis. Set Workspace to `/path/to/vitis-helloworld-baremetal/workspace`.
+Generate platform:
+```
+flatpak run --command=xsct com.github.corna.Vivado ../vitis/platform/arty-z7-20.tcl
+```
+
+Launch Vitis:
+```
+flatpak run --command=vitis com.github.corna.Vivado -workspace .
+```
 
 Then, `Import Projects` > `Eclipse workspace or zip file`:
 * Select root directory: `/path/to/vitis-helloworld-baremetal`.
