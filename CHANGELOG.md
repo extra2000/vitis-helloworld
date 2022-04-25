@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://github.com/extra2000/vitis-helloworld-baremetal/compare/v1.0.1...v1.0.2) (2022-04-25)
+
+
+### Code Refactoring
+
+* **vivado:** simplify Block Design ([0a345ea](https://github.com/extra2000/vitis-helloworld-baremetal/commit/0a345ea64579e059e0bfd78fd6fe0a1eda620a31))
+
 ### [1.0.1](https://github.com/extra2000/vitis-helloworld-baremetal/compare/v1.0.0...v1.0.1) (2022-04-22)
 
 
